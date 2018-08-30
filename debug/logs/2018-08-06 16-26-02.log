@@ -1,0 +1,65 @@
+43.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;NBA,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+Execute Anonymous: saInquiryReply__c test = [SELECT Id FROM saInquiryReply__c WHERE Id = 'a0H0k0000047Gvh'];
+Execute Anonymous: saInquiryReply__c clonedAcc = test.clone(false, true, false, false);
+Execute Anonymous: delete clonedAcc;
+16:26:01.1 (1231690)|USER_INFO|[EXTERNAL]|0056F000006PtYl|gwadmin@gw.jp.kddi.fullsand|日本標準時|GMT+09:00
+16:26:01.1 (1252167)|EXECUTION_STARTED
+16:26:01.1 (1257280)|CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_apex
+16:26:01.1 (1380982)|VARIABLE_SCOPE_BEGIN|[2]|clonedAcc|saInquiryReply__c|true|false
+16:26:01.1 (1393398)|VARIABLE_SCOPE_BEGIN|[1]|test|saInquiryReply__c|true|false
+16:26:01.1 (1504195)|HEAP_ALLOCATE|[72]|Bytes:3
+16:26:01.1 (1534774)|HEAP_ALLOCATE|[77]|Bytes:152
+16:26:01.1 (1548326)|HEAP_ALLOCATE|[342]|Bytes:408
+16:26:01.1 (1562696)|HEAP_ALLOCATE|[355]|Bytes:408
+16:26:01.1 (1575383)|HEAP_ALLOCATE|[467]|Bytes:48
+16:26:01.1 (1599841)|HEAP_ALLOCATE|[139]|Bytes:6
+16:26:01.1 (1623574)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:5
+16:26:01.1 (1728522)|STATEMENT_EXECUTE|[1]
+16:26:01.1 (1731798)|STATEMENT_EXECUTE|[1]
+16:26:01.1 (1735025)|HEAP_ALLOCATE|[1]|Bytes:61
+16:26:01.1 (1751389)|HEAP_ALLOCATE|[1]|Bytes:4
+16:26:01.1 (1786088)|HEAP_ALLOCATE|[50]|Bytes:5
+16:26:01.1 (1804190)|HEAP_ALLOCATE|[56]|Bytes:5
+16:26:01.1 (1812928)|HEAP_ALLOCATE|[64]|Bytes:7
+16:26:01.1 (1990577)|SOQL_EXECUTE_BEGIN|[1]|Aggregations:0|SELECT Id FROM saInquiryReply__c WHERE Id = 'a0H0k0000047Gvh'
+16:26:01.1 (5316428)|SOQL_EXECUTE_END|[1]|Rows:1
+16:26:01.1 (5342039)|HEAP_ALLOCATE|[1]|Bytes:8
+16:26:01.1 (5354868)|HEAP_ALLOCATE|[1]|Bytes:29
+16:26:01.1 (5438319)|HEAP_ALLOCATE|[1]|Bytes:8
+16:26:01.1 (5451489)|HEAP_ALLOCATE|[1]|Bytes:43
+16:26:01.1 (5503376)|HEAP_ALLOCATE|[1]|Bytes:8
+16:26:01.1 (5543942)|VARIABLE_ASSIGNMENT|[1]|test|{"Id":"a0H0k0000047GvhEAE"}|0x449ada99
+16:26:01.1 (5551572)|STATEMENT_EXECUTE|[2]
+16:26:01.1 (5649245)|HEAP_ALLOCATE|[2]|Bytes:4
+16:26:01.1 (5658808)|HEAP_ALLOCATE|[2]|Bytes:4
+16:26:01.1 (5696800)|VARIABLE_ASSIGNMENT|[2]|clonedAcc|{}|0x66714f0e
+16:26:01.1 (5707901)|STATEMENT_EXECUTE|[3]
+16:26:01.1 (5742963)|HEAP_ALLOCATE|[3]|Bytes:8
+16:26:01.1 (5753062)|HEAP_ALLOCATE|[3]|Bytes:8
+16:26:01.1 (5760375)|DML_BEGIN|[3]|Op:Delete|Type:saInquiryReply__c|Rows:1
+16:26:01.1 (5795463)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+16:26:01.1 (6888178)|EXCEPTION_THROWN|[3]|System.ListException: Invalid id at index 0: null
+16:26:01.1 (6912244)|DML_END|[3]
+16:26:01.1 (7283982)|HEAP_ALLOCATE|[3]|Bytes:31
+16:26:01.1 (7371449)|FATAL_ERROR|System.ListException: Invalid id at index 0: null
+
+AnonymousBlock: line 3, column 1
+16:26:01.7 (7422446)|CUMULATIVE_LIMIT_USAGE
+16:26:01.7 (7422446)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 1 out of 100
+  Number of query rows: 1 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 1 out of 150
+  Number of DML rows: 1 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+16:26:01.7 (7422446)|CUMULATIVE_LIMIT_USAGE_END
+
+16:26:01.1 (7464784)|CODE_UNIT_FINISHED|execute_anonymous_apex
+16:26:01.1 (8294011)|EXECUTION_FINISHED

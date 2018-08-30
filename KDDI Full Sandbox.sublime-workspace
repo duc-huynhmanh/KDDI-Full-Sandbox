@@ -1,0 +1,961 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Fl",
+				"flagNo"
+			],
+			[
+				"lsU",
+				"lsUserOrGroupId"
+			],
+			[
+				"lsg",
+				"lsGroupId"
+			],
+			[
+				"err",
+				"errMess"
+			],
+			[
+				"id",
+				"idParentRole"
+			],
+			[
+				"ass",
+				"assert()"
+			],
+			[
+				"set",
+				"setupIframeLoader"
+			],
+			[
+				"s",
+				"style\t(String)"
+			],
+			[
+				"rem",
+				"PUBLIC removeEnd(String toRemove) \tString"
+			],
+			[
+				"Re",
+				"ReportName__c \tText"
+			],
+			[
+				"val",
+				"validFrom"
+			],
+			[
+				"re",
+				"reRender\t(Object)"
+			],
+			[
+				"ou",
+				"apex:outputPanel"
+			],
+			[
+				"is",
+				"isProcess"
+			],
+			[
+				"pan",
+				"apex:outputPanel"
+			],
+			[
+				"que",
+				"questionMap"
+			],
+			[
+				"prev",
+				"previousRow"
+			],
+			[
+				"on",
+				"onclick\t(String)"
+			],
+			[
+				"in",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"create",
+				"createLikeDetail"
+			],
+			[
+				"kd",
+				"kdKnowledgeDetail__c"
+			],
+			[
+				"KD",
+				"kdKnowledge__c"
+			],
+			[
+				"as",
+				"assertNotEquals()"
+			],
+			[
+				"crea",
+				"createKnowledge"
+			],
+			[
+				"out",
+				"apex:outputLink"
+			],
+			[
+				"Kd",
+				"kdKnowledge__c"
+			],
+			[
+				"filt",
+				"filterThema"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ord",
+				"orderBy"
+			],
+			[
+				"T",
+				"Title__c"
+			],
+			[
+				"fil",
+				"filterHasMovie"
+			],
+			[
+				"rec",
+				"recommend"
+			],
+			[
+				"Ty",
+				"Type__c"
+			],
+			[
+				"put",
+				"PUBLIC put(ANY key, ANY value) \tString"
+			],
+			[
+				"t",
+				"Type__c"
+			],
+			[
+				"map",
+				"mapKnowledgeCountType"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"Wh",
+				"whereStr"
+			],
+			[
+				"Las",
+				"LastModifiedBy__c"
+			],
+			[
+				"quer",
+				"queryStr"
+			],
+			[
+				"whe",
+				"whereStr"
+			],
+			[
+				"cs",
+				"csvType"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"html",
+				"htmlDisplay"
+			],
+			[
+				"dis",
+				"displayHTML"
+			],
+			[
+				"style",
+				"styleClass\t(String)"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"reco",
+				"recordSearch"
+			],
+			[
+				"act",
+				"apex:actionRegion"
+			],
+			[
+				"cate",
+				"cateOption"
+			],
+			[
+				"select",
+				"selectedValue"
+			],
+			[
+				"the",
+				"Thema__c"
+			],
+			[
+				"The",
+				"Thema__c"
+			],
+			[
+				"rep",
+				"reply"
+			],
+			[
+				"reply",
+				"replyDetail"
+			],
+			[
+				"inq",
+				"inqDetail"
+			],
+			[
+				"a",
+				"PUBLIC put(ANY key, ANY value) \tString"
+			],
+			[
+				"csv",
+				"csvRow"
+			],
+			[
+				"mas",
+				"masterReply"
+			],
+			[
+				"si",
+				"PUBLIC size() \tInteger"
+			],
+			[
+				"Date",
+				"Datetime\t[Standard Apex Class]"
+			],
+			[
+				"DAte",
+				"Datetime\t[Standard Apex Class]"
+			],
+			[
+				"DAt",
+				"Datetime\t[Standard Apex Class]"
+			],
+			[
+				"f",
+				"float-left"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"onk",
+				"onkeyup\t(String)"
+			],
+			[
+				"tar",
+				"targetField1Value"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Bra",
+				"BranchCode__c"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"se",
+				"selectOptions"
+			],
+			[
+				"col",
+				"color-dark"
+			],
+			[
+				"fiel",
+				"fieldDateTo"
+			],
+			[
+				"fio",
+				"fieldDateFrom"
+			],
+			[
+				"know",
+				"knowledge"
+			],
+			[
+				"Ha",
+				"HasMovie__c"
+			],
+			[
+				"kno",
+				"knowledge"
+			],
+			[
+				"A",
+				"Attachment"
+			],
+			[
+				"kn",
+				"knowledge"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/auCXKnowledgeListCtrl.cls",
+			"settings":
+			{
+				"buffer_size": 47594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/pages/auCXKnowledgeListPage.page",
+			"settings":
+			{
+				"buffer_size": 67970,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "Package Control: install package",
+		"selected_items":
+		[
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hducmanh/Documents/KDDI Full Sandbox",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src"
+	],
+	"file_history":
+	[
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/pages/kdActivityList.page",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/saDailyReportEditorForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/kdKnowledgeListCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/kdUpdateInThisWeekFlagScheduler.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/kdUpdateInThisWeekFlagBatch.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/auUpdateHasAttachmentState.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/auUpdateHasAttachmentStateBatch.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes/kdKnowledgeHomePageCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Full Sandbox/src/pages/kdKnowledgeListPage.page",
+		"/Users/hducmanh/Documents/JEOL Full Sandbox - pj-jeolsf@globalway.co.jp.fullsand/src/triggers/attach0525.csv",
+		"/Users/hducmanh/Documents/JEOL Full Sandbox - pj-jeolsf@globalway.co.jp.fullsand/src/classes/User_AfterUpsertTriggerHandler.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saHearingListForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saHearingListForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportListForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReportListForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportCSVFileExportingCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdKnowledgeCSVFileExportingCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saMessagesListForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auConstantCmn.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auLoginPage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/csv-export-nested-query.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saUtilSharing.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saMessagesEditorForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saMessagesEditorForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdUpdateInThisWeekFlag.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auCxKnowledgeTimelineCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportCtrlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportCSVFileExportingCtrlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReportEditorForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportEditorForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportEditorForAdminCtlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReportCSVFileExporting.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/components/waitSearchPanelComp.component",
+		"/Users/hducmanh/Personal Data/SF_SublimeWorkSpace/JICA Sandbox - Team A2/src/staticresources/JICA_MyPageForOrg.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/list-for-admin.cls",
+		"/Users/hducmanh/Personal Data/SF_SublimeWorkSpace/JICA Sandbox - Team A2/src/pages/JICA_MyPageForOrg.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdKnowledgeListCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/kdKnowledgeListPage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/kdKnowledgeHomePage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/config/.describe",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportCSVFileExportingCtrl-old.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdKnowledgeHomePageCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportListCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportListCtrlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReportListMob.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportListForAdminCtlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdKnowledgeListCtrlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saDailyReportCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saConstantCmn.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdKnowledgeCSVFileExportingCtrlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReport.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReport.page-meta.xml",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saChatterCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/kdKnowledgeHomePageCtrlTest.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/kdKnowledgeCSVFileExporting.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/controller-git.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/page-git.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/backup-page.page.html",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/backup-controller.cls",
+		"/Users/hducmanh/Downloads/attachment-0417.csv",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auCXKnowledgeListPage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auSTPDListCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/kdKnowledgeHomePage.page-meta.xml",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/kdKnowledgeScript.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auCXKnowledgeListCtrl.cls",
+		"/Users/hducmanh/Personal Data/SF_SublimeWorkSpace/JICA Sandbox - Team A2/src/pages/JICA_MyPage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saReportCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/saHomeCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auUtilChatter.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auSTPDListPage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saMessagesListForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/triggers/auSTPDItems_BeforeUpsert.trigger",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/triggers/auSTPD_BeforeUpsert.trigger",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/triggers/auSTPD_AfterUpsert.trigger",
+		"/Users/hducmanh/Documents/JEOL Sandbox/src/classes/JEOL_MaintenanceListNewCsv_ctrl.cls",
+		"/Users/hducmanh/Documents/JEOL Sandbox/src/pages/JEOL_MaintenanceListNewCsv.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auScheduleListCSV.page",
+		"/Users/hducmanh/Desktop/saDailyReportListForAdminStyle.css",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/saDailyReportListForAdminStyle.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/saDailyReportEditorForAdminStyle.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/saDailyReportEditorForAdminScript.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/saDailyReportListForAdmin.page-meta.xml",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/auDailyReportEditorForAdminScript.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/auDailyReportEditorForAdminStyle.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auDailyReportEditorForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auDailyReportListForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auDailyReportEditorForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auDailyReportListForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auUtilCmn.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/UnderConstruction.page-meta.xml",
+		"/Users/hducmanh/Desktop/auDailyReportEditorForAdminCtlBackup.cls",
+		"/Users/hducmanh/Desktop/auDailyReportEditorForAdminBackup.page",
+		"/Users/hducmanh/Desktop/auDailyReportEditorForAdminScript.js",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auDailyReportCreateForAdminCtl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auDailyReportCreateForAdmin.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/staticresources/auDailyRportListForAdminStyle.resource",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/components/auWaitSearchPanel.component",
+		"/Users/hducmanh/Desktop/auDailyReportListForAdminBackup.Page.html",
+		"/Users/hducmanh/Desktop/auDailyReportListForAdminStyleBackup.css",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auCxKnowledgeTimelinePage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auDailyReportCtrl.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auDailyReport.page",
+		"/Users/hducmanh/Desktop/controller-backup.cls",
+		"/Users/hducmanh/Desktop/page-backup.page.html",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/pages/auSwitchScreenPage.page",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auUrlRewriter.cls",
+		"/Users/hducmanh/Documents/KDDI Sandbox/src/classes/auLoginCtrl.cls"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/hducmanh/Documents/KDDI Full Sandbox/src/classes",
+			"/Users/hducmanh/Documents/KDDI Full Sandbox/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eventStartHour",
+			"delete ",
+			".rec =",
+			"item.rec.c",
+			"item.rec",
+			"item.rec=",
+			"item.rec =",
+			"delete ",
+			"delete",
+			"saMessageDetail__c",
+			"upsert ",
+			"update ",
+			"save ",
+			"kdUpdateInThisWeekFlagBatch",
+			"size",
+			"attachments",
+			"attachment",
+			"Attachments",
+			"FROM Attachments"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/auCXKnowledgeListCtrl.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/pages/auCXKnowledgeListPage.page",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46448,
+								46448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "KDDI Full Sandbox.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aucx",
+				"src/pages/auCXKnowledgeListPage.page"
+			],
+			[
+				"cx",
+				"src/classes/auCXKnowledgeListCtrl.cls"
+			],
+			[
+				"kdacti",
+				"src/pages/kdActivityList.page"
+			],
+			[
+				"sadailyreported",
+				"src/classes/saDailyReportEditorForAdminCtl.cls"
+			],
+			[
+				"kdkno",
+				"src/classes/kdKnowledgeListCtrl.cls"
+			],
+			[
+				"au",
+				"src/classes/auUpdateHasAttachmentState.cls"
+			],
+			[
+				"kdknowledgeho",
+				"src/classes/kdKnowledgeHomePageCtrl.cls"
+			],
+			[
+				"kd",
+				"src/classes/kdKnowledgeListCtrl.cls"
+			],
+			[
+				"kdknowledgec",
+				"src/classes/kdKnowledgeCSVFileExportingCtrl.cls"
+			],
+			[
+				"sahearin",
+				"src/classes/saHearingListForAdminCtl.cls"
+			],
+			[
+				"sahearing",
+				"src/pages/saHearingListForAdmin.page"
+			],
+			[
+				"samessagesli",
+				"src/classes/saMessagesListForAdminCtl.cls"
+			],
+			[
+				"samessagesed",
+				"src/pages/saMessagesEditorForAdmin.page"
+			],
+			[
+				"sadailyreportlistfo",
+				"KDDI Sandbox/src/classes/saDailyReportListForAdminCtl.cls"
+			],
+			[
+				"sadailyreport",
+				"KDDI Sandbox/src/pages/saDailyReportListForAdmin.page"
+			],
+			[
+				"sadailyre",
+				"KDDI Sandbox/src/classes/saDailyReportCSVFileExportingCtrl.cls"
+			],
+			[
+				"sadail",
+				"KDDI Sandbox/src/pages/saDailyReportListForAdmin.page"
+			],
+			[
+				"auConstantCmn",
+				"KDDI Sandbox/src/classes/auConstantCmn.cls"
+			],
+			[
+				"mypagefor",
+				"JICA Sandbox - Team A2/src/staticresources/JICA_MyPageForOrg.resource"
+			],
+			[
+				"kdknow",
+				"src/classes/kdKnowledgeListCtrl.cls"
+			],
+			[
+				"sahearinglistforadminctl",
+				"src/classes/saHearingListForAdminCtl.cls"
+			],
+			[
+				"sadailyreportli",
+				"src/classes/saDailyReportListForAdminCtl.cls"
+			],
+			[
+				"sadailyreportlistforadmin",
+				"src/pages/saDailyReportListForAdmin.page"
+			],
+			[
+				"",
+				"config/.describe"
+			],
+			[
+				"kdkn",
+				"src/classes/kdKnowledgeListCtrl.cls"
+			],
+			[
+				"sadailyreportl",
+				"src/pages/saDailyReportListMob.page"
+			],
+			[
+				"kdknowledgelist",
+				"src/pages/kdKnowledgeListPage.page"
+			],
+			[
+				"kdknowledgelistctrl",
+				"src/classes/kdKnowledgeListCtrl.cls"
+			],
+			[
+				"kdknowledgecsvfileexporting",
+				"src/pages/kdKnowledgeCSVFileExporting.page"
+			],
+			[
+				"sadai",
+				"KDDI Sandbox/src/pages/saDailyReportListForAdmin.page"
+			],
+			[
+				"sada",
+				"KDDI Sandbox/src/pages/saDailyReportCSVFileExporting.page"
+			],
+			[
+				"sadailyreportlis",
+				"KDDI Sandbox/src/classes/saDailyReportListForAdminCtl.cls"
+			],
+			[
+				"kdknowledge",
+				"KDDI Sandbox/src/pages/kdKnowledgeCSVFileExporting.page"
+			],
+			[
+				"sahome",
+				"KDDI Sandbox/src/classes/saHomeCtrl.cls"
+			],
+			[
+				"csv",
+				"KDDI Sandbox/src/pages/saDailyReportCSVFileExporting.page"
+			],
+			[
+				"jeol_maintenancelistnewcsv_ctrl",
+				"JEOL Sandbox/src/classes/JEOL_MaintenanceListNewCsv_ctrl.cls"
+			],
+			[
+				"sadailyreportcsvfileexporting",
+				"src/classes/saDailyReportCSVFileExportingCtrl.cls"
+			],
+			[
+				"sadailyreportlistforadminctl",
+				"src/classes/saDailyReportListForAdminCtlTest.cls"
+			],
+			[
+				"sadailyreporte",
+				"src/pages/saDailyReportEditorForAdmin.page"
+			],
+			[
+				"sa",
+				"src/classes/saDailyReportListForAdminCtl.cls"
+			],
+			[
+				"audai",
+				"src/pages/auDailyReportListForAdmin.page"
+			],
+			[
+				"audailyreportlis",
+				"src/classes/auDailyReportListForAdminCtl.cls"
+			],
+			[
+				"audailyreported",
+				"src/classes/auDailyReportEditorForAdminCtl.cls"
+			],
+			[
+				"audailyre",
+				"src/pages/auDailyReportEditorForAdmin.page"
+			],
+			[
+				"dk",
+				"src/pages/kdKnowledgeListPage.page"
+			],
+			[
+				"audailyreportf",
+				"src/classes/auDailyReportCreateForAdminCtl.cls"
+			],
+			[
+				"audail",
+				"src/pages/auDailyReportCreateForAdmin.page"
+			],
+			[
+				"kno",
+				"src/pages/kdKnowledgeListPage.page"
+			],
+			[
+				"aucxknowledgelistpage",
+				"src/pages/auCXKnowledgeListPage.page"
+			],
+			[
+				"auloginctrl",
+				"src/classes/auLoginCtrl.cls"
+			],
+			[
+				"aulogin",
+				"src/pages/auLoginPage.page"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

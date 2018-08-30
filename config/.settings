@@ -1,0 +1,17 @@
+{
+    "projectName": "KDDI Full Sandbox",
+    "username": "gwadmin@gw.jp.kddi.fullsand",
+    "id": "00e26a30-25a5-11e8-b346-5dc800ba3cc3",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://au-portal--FullSand.cs57.my.salesforce.com",
+    "workspace": "/Users/hducmanh/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
